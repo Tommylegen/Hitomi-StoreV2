@@ -149,7 +149,7 @@ ${readmore}
  
  *THANKS TO*
  ➢ Christian ID
- ➢ Nc Tech
+ ➢ Raja Dev
  ➢ Irfan / Riyan
 `
 }
